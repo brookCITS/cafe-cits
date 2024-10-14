@@ -85,5 +85,7 @@ npm run start
 Once you complete the project, your site will be deployed to GitHub Pages. Each push to the main branch will trigger an automatic deployment.
 
 ```bash
+git add .
+git commit -m "commit message"
 git push
 ```
