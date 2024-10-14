@@ -31,7 +31,7 @@ Follow these steps to complete the project:
 1. **Fork and Clone the repository:**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/brookCITS/cafe-cits.git
 cd cafe-cits
 ```
 
